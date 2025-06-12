@@ -2,7 +2,7 @@
 
   ## I'm passionate about Data and Technology
 
-- 🔭 I'm currently not working
+- 🔭 I'm currently working in SURF
 - 🌱 I’m currently learning Data science in general
 - 💬 Ask me about Excel, Python, SQL, Power BI
 - 📫 How to reach me: ghabryellucas@hotmail.com
